@@ -1,0 +1,36 @@
+.row1{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.row2{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.guidelines-heading{
+    text-align: center;
+    font-size: 50px;
+    /* margin-top: 50px; */
+    padding: 30px;
+}
+
+.guidelines-main-container{
+    background: url('./guidelinebg.jpg') center center/cover no-repeat;
+    /* background-color: lightblue; */
+    height: 160vh;
+}
+
+.line{
+    width: 50%;
+    height: 7px;
+    border: 0;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #3A3B3C;
+    margin-top: -30px;
+    margin-bottom: 30px;
+  }

@@ -1,0 +1,39 @@
+.successful{
+    font-size: 70px;
+    text-align: center;
+    color: black;
+    margin-top: 200px;
+    /* background-color: aqua; */
+}
+.home-redirect-button{
+    display: flex;
+    gap: 30px;
+    /* margin:30px auto;  */
+    margin-left:650px;
+    margin-top: 80px;
+
+}
+
+.home-button{
+    width: 200px;
+    height: 59px;
+    color: #fff;
+    background: #4c00b4;
+    border-radius: 50px;
+    font-size: 15px;
+    /* font-weight: 700; */
+    cursor: pointer; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -20px;
+
+}
+
+.booking-details-success{
+    font-size: 20px;
+    color: black;
+    text-align: center;
+    margin-top: 20px;
+}
+

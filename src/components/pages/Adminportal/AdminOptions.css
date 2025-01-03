@@ -1,0 +1,41 @@
+.main-options{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    /* margin-top: 180px; */
+    background-color: transparent;
+    /* margin-left: 150px; */
+}
+
+.guidelines-heading{
+    text-align: center;
+    font-size: 50px;
+    /* margin-top: 50px; */
+    padding: 30px;
+}
+
+.guidelines-container{
+    background: url('./adminbg.jpg') center center/cover no-repeat;
+    height: 100vh;
+    /* background-color: lightblue; */
+}
+
+.line{
+    width: 50%;
+    height: 7px;
+    border: 0;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #3A3B3C;
+    margin-top: -30px;
+    margin-bottom: 30px;
+  }
+
+.option1:hover{
+    cursor: pointer;
+}
+
+.option2:hover{
+    cursor: pointer;
+}

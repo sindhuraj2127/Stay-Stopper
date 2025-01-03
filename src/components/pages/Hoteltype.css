@@ -1,0 +1,55 @@
+.hotel-detail{
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+
+}
+.hotel-main>div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.rating{
+    background-color:black;
+    padding: 5px 10px;
+    color: #fff;
+}
+.hotel-cancel,.hotel-note{
+    color: rgb(81, 125, 81);
+}
+.hotel-airport{
+    background-color:green;
+    width: max-content;
+    padding: 5px 10px;
+    color: #fff;
+    border-radius: .3rem;
+}
+.see-btn{
+    background-color: black;
+    color: #fff;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.rate{
+    font-size: 28px;
+}
+.rate-details{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding-left: 20px;
+}
+.details{
+    display:flex;
+    flex-direction: column;
+    gap: 10px;
+
+}
+.hotel-detail>img{
+    padding-right: 20px;
+    width: 350px;
+    height: auto;
+}
